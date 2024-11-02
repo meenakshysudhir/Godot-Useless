@@ -20,10 +20,3 @@ Odunnu Odunnu can be made more 'useless' by randomizing the all the controls eve
 1. Go to https://drive.google.com/drive/folders/1T49xKWGbEeEgcs5_XBIfvrEOJK0_7i1K?usp=drive_link
 2. Download the _Odunnu Odunnu.exe_ file
 3. Just playyyy.
-
-### Steps
-
-1. **Clone the Repository:**
-   ```bash
-   git clone https://github.com/your-username/Odunnu.git
-   ```
